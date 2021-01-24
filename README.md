@@ -46,7 +46,9 @@
 
 ## Projetos
 ### VisLab
-
+> VisLab é um desktop app feito em Python, com interface gráfica em Tkinter. Ela tem o propósito de auxiliar engenheiros de tráfego a fazerem simulações utilizando o Vissim, em especial nas fases de Análise de Sensibilidade e Calibração, usando Algoritmo Genético (AG).
+### Hadoop vs Spark
+> Pequeno artigo criado para comparar essas duas ferramentas de Big Data ![link](https://matheusferreira195.github.io/hadoop-spark-word-counter/)
 ## Stats
 
 > [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheusferreira195&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)

@@ -45,10 +45,12 @@
 >-(Estudando) ![vuejs](https://img.shields.io/badge/vuejs%20-%2335495e.svg?&style=for-the-badge&logo=vue.js&logoColor=%234FC08D)
 
 ## Projetos
-### VisLab
-> VisLab é um desktop app feito em Python, com interface gráfica em Tkinter. Ela tem o propósito de auxiliar engenheiros de tráfego a fazerem simulações utilizando o Vissim, em especial nas fases de Análise de Sensibilidade e Calibração, usando Algoritmo Genético (AG).
-### Hadoop vs Spark
-> Pequeno artigo criado para comparar essas duas ferramentas de Big Data ![link](https://matheusferreira195.github.io/hadoop-spark-word-counter/)
+### [VisLab](https://github.com/matheusferreira195/VisLAB)
+> VisLab é um desktop app feito em Python, com interface gráfica em Tkinter. Ela tem o propósito de auxiliar engenheiros de tráfego a fazerem simulações utilizando o Vissim, em especial nas fases de Análise de Sensibilidade e Calibração, usando Algoritmo Genético (AG). 
+### [Hadoop vs Spark](https://matheusferreira195.github.io/hadoop-spark-word-counter/)
+> Pequeno artigo criado para comparar essas duas ferramentas de Big Data.
+### [Salário de Jogadores do NBA: Hype ou Skill?](https://github.com/matheusferreira195/MBA-Unifor-StephenCurrySalary)
+> Análise do salário dos jogadores de MBA. Será que a performance deles justifica o salário?
 ## Stats
 
 > [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheusferreira195&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)

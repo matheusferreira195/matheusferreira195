@@ -45,7 +45,7 @@
 >-(Estudando) ![vuejs](https://img.shields.io/badge/vuejs%20-%2335495e.svg?&style=for-the-badge&logo=vue.js&logoColor=%234FC08D)
 
 ## Projetos
->-### VisLab
+>- ### VisLab
 
 ## Stats
 

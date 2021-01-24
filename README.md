@@ -51,4 +51,4 @@
 
 ## Onde me encontrar
 
-[![Gmail Badge](https://img.shields.io/badge/-andradebivar@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:andradebivar@gmail.com)](mailto:andradebivar@gmail.com) | [![Medium Badge](https://img.shields.io/badge/-rbvrr-black?style=flat-square&logo=Medium&logoColor=white&link=https://medium.com/@rbvrr)](https://medium.com/@rbvrr) | [![Linkedin Badge](https://img.shields.io/badge/-RebecaBivar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rebecabivar)](https://www.linkedin.com/in/rebecabivar)
+[![Gmail Badge](https://img.shields.io/badge/-andradebivar@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:matheusferreiradarocha195@gmail.com)](mailto:andradebivar@gmail.com) | [![Linkedin Badge](https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheusferreira195)

@@ -51,4 +51,4 @@
 
 ## Onde me encontrar
 
-[![Gmail Badge](https://img.shields.io/badge/-andradebivar@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:matheusferreiradarocha195@gmail.com)](mailto:andradebivar@gmail.com) | [![Linkedin Badge](https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheusferreira195)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matheusferreiradarocha195@gmail.com) | [![Linkedin Badge](https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheusferreira195)
